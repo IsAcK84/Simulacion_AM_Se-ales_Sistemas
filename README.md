@@ -1,4 +1,4 @@
-# lementación y Análisis de un sistema de modulación en amplitud
+# Implementación y Análisis de un sistema de modulación en amplitud
 
 ## Descripción del Proyecto
 Este repositorio contiene el código desarrollado en Octave Online para la actividad "Simulación AM de Señales y Sistemas". El objetivo de este proyecto es simular el proceso de Modulación por Amplitud (AM), una técnica fundamental en las comunicaciones.
